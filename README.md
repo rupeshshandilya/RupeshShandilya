@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A Computer Science Student Aspiring to become a Versatile Developer. 😄</h3>
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishgupta18&label=Profile%20views&color=0e75b6&style=flat" alt="ashishgupta18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RupeshShandilya2003&label=Profile%20views&color=0e75b6&style=flat" alt="RupeshShandilya2003" /> </p>
 
 - 🌱 I’m currently trying to learn **everything 😀**
 
@@ -17,7 +17,7 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/rupesh-shandilya-04655a193/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="rupesh-shandillya-6a144a221" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rupesh.shandilya_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="whoisashish._" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rupesh.shandilya_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="rupesh.shandilya_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
