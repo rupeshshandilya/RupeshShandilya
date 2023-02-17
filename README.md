@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rupeshmishra813@gmail.com**
 
-- ⚡ Fun fact **I am always curious about certain things 😄**
+- ⚡ Fun fact **A Backend Developer who loves Frontend 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
