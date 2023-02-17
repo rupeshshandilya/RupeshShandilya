@@ -38,6 +38,6 @@
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishgupta18&show_icons=true&locale=en&layout=compact" alt="RupeshShandilya2003" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RupeshShandilya2003&show_icons=true&locale=en&layout=compact" alt="RupeshShandilya2003" /></p>
 
 
