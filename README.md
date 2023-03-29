@@ -1,4 +1,4 @@
-![logo](https://github.com/RupeshShandilya2003/RupeshShandilya2003/blob/main/bn.png)
+![logo](https://github.com/RupeshShandilya/RupeshShandilya/blob/main/bn.png)
 <h1 align="center">Hi there,I'm Rupesh Kumar Shandilya 👋</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A Computer Science Student Aspiring to become a Versatile Developer. 😄</h3>
@@ -65,18 +65,18 @@
 <tr>
   <td align="center">
   <p align="center">
-  <a href="https://github.com/RupeshShandilya2003">
-    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshShandilya2003&"/>
+  <a href="https://github.com/RupeshShandilya">
+    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshShandilya&"/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/RupeshShandilya2003">
-  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=RupeshShandilya2003&show_icons=true&locale=en" />
+  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=RupeshShandilya&show_icons=true&locale=en" />
   </a>
   </td>
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RupeshShandilya2003&show_icons=true&locale=en&layout=compact" alt="RupeshShandilya2003" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RupeshShandilya&show_icons=true&locale=en&layout=compact" alt="RupeshShandilya" /></p>
 
 
