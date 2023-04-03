@@ -73,12 +73,12 @@
   </td>
   <td align="center">
   <a href="https://github.com/rupeshshandilya">
-  <img align="center" height="200px" width="600" src="https://streak-stats.demolab.com?user=rupeshshandilya&theme=dark" />
+  <img align="center" height="200px" width="600" src="https://streak-stats.demolab.com?user=rupeshshandilya&" />
   </a>
   </td>
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshshandilya&show_icons=true&locale=en&layout=compact" alt="rupeshshandilya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rupeshshandilya" alt="rupeshshandilya" /></p>
 
 
