@@ -73,7 +73,7 @@
   </td>
   <td align="center">
   <a href="https://github.com/rupeshshandilya">
-  <img align="center" height="200px" width="600" src="https://streak-stats.demolab.com?user=rupeshshandilya&" />
+  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=rupeshshandilya" />
   </a>
   </td>
 </p>
