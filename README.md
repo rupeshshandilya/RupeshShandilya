@@ -67,18 +67,18 @@
 <tr>
   <td align="center">
   <p align="center">
-  <a href="https://github.com/RupeshShandilya">
-    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshShandilya&"/>
+  <a href="https://github.com/rupeshshandilya">
+    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshshandilya&"/>
   </a>
   </td>
   <td align="center">
-  <a href="https://github.com/RupeshShandilya2003">
-  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=RupeshShandilya&show_icons=true&locale=en" />
+  <a href="https://github.com/rupeshshandilya">
+  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=rupeshshandilya&show_icons=true&locale=en" />
   </a>
   </td>
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RupeshShandilya&show_icons=true&locale=en&layout=compact" alt="RupeshShandilya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshshandilya&show_icons=true&locale=en&layout=compact" alt="rupeshshandilya" /></p>
 
 
