@@ -79,6 +79,6 @@
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rupeshshandilya" alt="rupeshshandilya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rupeshshandilya" alt="rupeshshandilya" /></p>
 
 
