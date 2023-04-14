@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently trying to Understand the language of 0s and 1s.
 
-- 💬 Ask me about **MERN stack, Frontend Development**
+- 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **rupeshmishra813@gmail.com**
 
