@@ -21,48 +21,51 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-            rel="noreferrer"> 
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-            rel="noreferrer"> 
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-                height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-                width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"
-                width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                alt="react" width="40" height="40" /> </a>
-                <a href="https://aws.amazon.com/organizations/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws-img"
-                width="40" height="40" /></a></p>
+ <p align="left">
+  
+<!--  Bootstrap  -->
+ 
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    
+ <img src="https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=KOTLIN&logoColor=%ffff" alt="kotlin"/>
+  
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
+  
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"> 
+  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="javascript"/>
+        
+ <img src="https://img.shields.io/badge/django-6DA55F?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
+  
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+ 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+  
+  <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  
+  <img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  
+  <img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">  
+   
+  <img alt="Android Studio" src ="https://img.shields.io/badge/ANDROIDSTUDIO-000000?style=for-the-badge&logo=androidstudio&logoColor=A4C639">
+  
+  <img alt="Visual Studio" src ="https://img.shields.io/badge/VisualStudio-0078d7?style=for-the-badge&logo=VisualStudio&logoColor=white">
+  
+ <img src="https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
+  
+ <img src="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
+  
+  <img src="https://img.shields.io/badge/FIGMA-239120?&style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  
+  
+  
+</p>
 <table>
 <tr>
   <td align="center">
