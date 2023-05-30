@@ -60,6 +60,8 @@
  <img src="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
   
   <img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">  
+  
+  <img src="https://img.shields.io/badge/terraform-%23563D7C.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
       
   <img src="https://img.shields.io/badge/FIGMA-239120?&style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
   
