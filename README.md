@@ -84,6 +84,6 @@
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshshandilya&layout=compact" alt="rupeshshandilya" /></p>
+
 
 
