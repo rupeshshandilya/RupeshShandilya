@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently trying to Understand the language of 0s and 1s.
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **rupeshmishra813@gmail.com**
+- 📫 How to reach me **rupeshkshandilya@gmail.com**
 
 - ⚡ Fun fact **My app never contain bugs. It just develops random features. 😄**
 
