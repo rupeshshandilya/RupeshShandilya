@@ -13,6 +13,14 @@
 
 - ⚡ Fun fact **My app never contain bugs. It just develops random features. 😄**
 
+<h3 align="left">Portfolio:</h3>
+
+<p align="left">
+  <a href="https://rupeshshandilya.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
